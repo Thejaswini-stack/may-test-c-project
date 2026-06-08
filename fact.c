@@ -1,3 +1,4 @@
+//To find factorial
 #include <stdio.h>
 int factorial() {
     int n, i;
